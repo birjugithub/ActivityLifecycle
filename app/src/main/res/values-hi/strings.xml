@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ActivityLifecycle</string>
+    <string name="welcome_text">Welcome! Aapka swagat hai</string>
+    <string name="select_language">Language select karo</string>
+</resources>
